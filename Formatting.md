@@ -64,3 +64,10 @@ Html characters not supported in BB: &#8593;
 Html characters not supported in BB: e.g. &#8593;
 &amp;
 
+## Escape code
+
+\<Section\> label
+  
+<Section> label
+
+Normal
