@@ -14,6 +14,18 @@ Headings requires space separator in Github
 
 ---
 
+## Newline
+
+one
+two
+
+three
+
+four2spaces  
+five
+six
+---
+
 ## Table
 Tables need balanced delimiters | in Github
 
