@@ -11,3 +11,5 @@ Goto [sub2 doc2](../Sub2/Doc2.md)
 
 Goto [sub1 doc2 section 2](doc2.md#section-two)
 
+Goto [sub1 doc2 section 3](doc2.md#section-three)
+
