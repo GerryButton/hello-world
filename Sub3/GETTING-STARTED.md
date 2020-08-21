@@ -31,7 +31,7 @@ i.e. replace the string in the tag:
 
 Build the sample code by following these steps:
 - open the project file ```Wacom.Kiosk.IntegratorUI.csproj```
-- in the first build update the NuGet package as follows:
+- on the first build update the NuGet package as follows:
     - select *Manage NuGet Packages...* (right click the solution project to display the menu)
     - select Settings (click the gearwheel icon)
     - select or Add the package source 'kiosk' (to add the package click the + button)
@@ -46,7 +46,7 @@ On startup the window display will appear. The received message display indicate
 
 ![Sample Application](./media/sample-app.png)
 
-The following sections describe the commands
+The following sections describe the commands and further details can be found in [Configuration-Files](Configuration-Files.md)
 
 ### Everyone
 
